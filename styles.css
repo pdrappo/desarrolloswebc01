@@ -1,0 +1,18 @@
+body {
+    /* background: #EAEAEA; */
+}
+.container {
+    /* background: white; */
+}
+
+.col-blue {
+    background: lightblue;
+}
+
+.col-red {
+    background: lightsalmon;
+}
+
+.col-yellow {
+    background: lime;
+}
